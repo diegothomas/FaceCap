@@ -1,4 +1,4 @@
-# FaceCap(KARI)
+# FaceCap
 Facial Capture Project
 
 ## Environment
